@@ -1,0 +1,7 @@
+.slider {
+    height: 250px;
+    line-height: 250px;
+    text-align: center;
+    background: #364d79;
+    overflow: hidden;
+}

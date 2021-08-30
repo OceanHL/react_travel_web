@@ -1,0 +1,6 @@
+.page-content {
+    width: 80%;
+    min-height: 75vh; /* 利用最小视口让其中间区域撑开 */
+    margin-left: auto;
+    margin-right: auto;
+}
